@@ -10,6 +10,6 @@ Continuous adjoint cases, comprising 2D/3D steady transonic and viscid optimisat
 
 **JUPYTER_NOTEBOOKS**: compilation of all the cases being studied, drawn up in Jupyter Notebooks format, where the user can go through all the parameters of remarkable importance for setting adjoints (or direct) simulation.
 
-**Adjoint_SIM**: containing 4 sub-folders concerning the cases being launched. Because of memory matter, the results are not presented. The sub-folders include: configuration file, mesh, any python script to execute, a TXT_FILES folder storing the .txt files to be coupled with the Jupyter Notebooks.
+**Adjoint_SIM**: containing 3 sub-folders concerning the cases being launched. Because of memory matter, the results are not presented. The sub-folders include: configuration file, mesh grid (coarsest grids by default, exeption applied to the 3D cases), any python script to execute, a TXT_FILES folder storing the .txt files to be coupled with the Jupyter Notebooks.
 
 
